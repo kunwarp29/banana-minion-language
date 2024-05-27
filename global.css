@@ -51,14 +51,13 @@ button {
     box-sizing: border-box;
     width: 100%;
     min-height: 10vh;
-    max-height: 20vh;
+    max-height: 30vh;
     overflow:scroll;
     border: 1px solid var(--black);
 }
 
 footer {
-    position: fixed;
-    bottom: 0;
+    
     width: 100%;
     padding: 1rem;
     background-color: var(--primary);
